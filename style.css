@@ -160,7 +160,7 @@ footer {
 }
 
 body {
-  background: #f4f4f4;
+  background: #000;
   color: #333;
   line-height: 1.6;
 }
@@ -308,3 +308,4 @@ footer {
   background: #222;
   color: white;
 }
+
